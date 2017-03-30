@@ -1,4 +1,4 @@
-# Blue Arrrow Awards 2017 - Societal influence entry
+# Blue Arrow Awards 2017 - Societal influence entry
 
 ## [Lääkärihinta.fi](http://laakarihinta.fi)
 
