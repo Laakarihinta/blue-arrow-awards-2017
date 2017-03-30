@@ -30,4 +30,5 @@ By providing price data we help lower-income citizens to find affordable, high-q
 [Laakarihinta.fi](http://laakarihinta.fi) will be even more valuable for the society in the near future due to upcoming reform of social and health care services in Finland effective from year 2019 onwards. The reform shifts decision making to citizens who will need data to base their decisions on. Thus, we are now also focusing on measuring patient satisfaction among other quality metrics and building an aggregated online booking solution for healthcare. Consumer empowering tools like Laakarihinta.fi will be important for the success of the reform.
 
 ![](images/laakarihinta_kali_aikamuutettu_pmg.png)
+
 *Next steps include measuring customer satisfaction and online booking.*
