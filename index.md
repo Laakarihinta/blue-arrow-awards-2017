@@ -27,7 +27,7 @@ By providing price data we help lower-income citizens to find affordable, high-q
 
 [Laakarihinta.fi](http://laakarihinta.fi) has an efficient support for locales. Currently the service supports Finnish and English. Swedish will be added later this spring. Support for multiple languages improves accessibility among ethnic minorities such as immigrants and bridges gaps between finnish speaking and non-finnish speaking residents.
 
-[Laakarihinta.fi](http://laakarihinta.fi) will be even more valuable for the society in the near future due to upcoming reform of social and health care services in Finland effective from year 2019 onwards. The reform shifts decision making to citizens who will need data to base their decisions on. Thus, we are now also focusing on measuring patient satisfaction among other quality metrics and building an aggregated online booking solution for healthcare. Consumer empowering tools like Laakarihinta.fi will be important for the success of the reform.
+[Laakarihinta.fi](http://laakarihinta.fi) will be even more valuable for the society in the near future due to upcoming reform of social and health care services in Finland effective from year 2019 onwards. The reform shifts decision making to citizens who will need data to base their decisions on. Thus, we are now also focusing on measuring patient satisfaction among other quality metrics and building an aggregated online booking solution for healthcare. Consumer empowering tools like [Laakarihinta.fi](http://laakarihinta.fi) will be important for the success of the reform.
 
 ![](images/laakarihinta_kali_aikamuutettu_pmg.png)
 
